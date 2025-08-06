@@ -1,0 +1,9 @@
+=== Email Domain OSINT Results ===
+Target: +17314150198
+Timestamp: 2025-08-05 19:34:48.213087
+
+Email & Domain OSINT Tool
+Educational and authorized use only!
+
+Do you have permission to analyze this email/domain? (yes/no): Enter email address or domain: 
+Report saved to domain_report_+17314150198.json

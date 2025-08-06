@@ -1,0 +1,128 @@
+{
+  "target": "+1234567890",
+  "timestamp": "2025-08-05T19:27:50.274138",
+  "availability_check": {
+    "username": "+1234567890",
+    "timestamp": "2025-08-05T19:27:05.108186",
+    "platforms_checked": 37,
+    "found_profiles": [
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://reddit.com/user/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "telegram",
+        "url": "https://t.me/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://tiktok.com/@+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "pinterest",
+        "url": "https://pinterest.com/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "medium",
+        "url": "https://medium.com/@+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "twitch",
+        "url": "https://twitch.tv/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "hackernews",
+        "url": "https://news.ycombinator.com/user?id=+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "gravatar",
+        "url": "https://gravatar.com/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "badoo",
+        "url": "https://badoo.com/profile/+1234567890",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "onlyfans",
+        "url": "https://onlyfans.com/+1234567890",
+        "status": "Profile exists"
+      }
+    ],
+    "not_found": [
+      "github",
+      "twitter",
+      "youtube",
+      "linkedin",
+      "discord: Discord usernames not publicly searchable",
+      "snapchat",
+      "spotify",
+      "soundcloud",
+      "vimeo",
+      "behance",
+      "dribbble",
+      "flickr",
+      "goodreads",
+      "keybase",
+      "pastebin",
+      "about.me",
+      "foursquare",
+      "slideshare",
+      "scribd",
+      "last.fm",
+      "cash.app",
+      "venmo",
+      "patreon",
+      "linktree",
+      "clubhouse: Clubhouse usernames not publicly searchable",
+      "signal: Signal usernames not publicly searchable",
+      "whatsapp: WhatsApp usernames not publicly searchable"
+    ],
+    "errors": [
+      "tumblr",
+      "deviantart"
+    ],
+    "rate_limited": []
+  },
+  "pattern_analysis": {
+    "length": 11,
+    "has_numbers": true,
+    "has_special_chars": true,
+    "is_all_lowercase": false,
+    "is_all_uppercase": false,
+    "common_variations": [
+      "+12345678902024",
+      "+12345678901",
+      "+1234567890official",
+      "+1234567890123",
+      "+1234567890_",
+      "+1234567890",
+      "+1234567890real",
+      "real+1234567890",
+      "_+1234567890"
+    ],
+    "security_assessment": {
+      "security_score": 10,
+      "issues": [],
+      "recommendation": "Username appears secure"
+    }
+  }
+}

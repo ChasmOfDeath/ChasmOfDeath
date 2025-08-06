@@ -1,0 +1,48 @@
+{
+  "target": "+1234567890",
+  "timestamp": "2025-08-05T19:27:04.283201",
+  "phone_analysis": {
+    "number": "+1234567890",
+    "is_valid": false,
+    "is_possible": false,
+    "country_code": 1,
+    "national_number": 234567890,
+    "international_format": "+1 234567890",
+    "national_format": "234567890",
+    "e164_format": "+1234567890",
+    "location": "",
+    "carrier": "",
+    "timezones": [
+      "Etc/Unknown"
+    ],
+    "number_type": "UNKNOWN",
+    "line_type": "UNKNOWN"
+  },
+  "spam_analysis": {
+    "spam_score": 0,
+    "reports": [],
+    "databases_checked": []
+  },
+  "social_footprint": {
+    "platforms_found": [],
+    "public_profiles": [],
+    "associated_usernames": [],
+    "whatsapp": {
+      "has_whatsapp": "Unknown - requires proper API access",
+      "last_seen": "Not available",
+      "profile_info": "Requires authorization"
+    },
+    "telegram": {
+      "has_telegram": "Unknown - phone privacy protected",
+      "username": "Not publicly available",
+      "method": "Respects privacy settings"
+    }
+  },
+  "risk_assessment": {
+    "risk_score": 1,
+    "risk_level": "LOW",
+    "risk_factors": [
+      "Invalid number format"
+    ]
+  }
+}

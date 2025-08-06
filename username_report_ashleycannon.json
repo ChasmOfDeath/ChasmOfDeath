@@ -1,0 +1,160 @@
+{
+  "target": "ashleycannon",
+  "timestamp": "2025-08-05T19:22:18.417281",
+  "availability_check": {
+    "username": "ashleycannon",
+    "timestamp": "2025-08-05T19:21:26.541712",
+    "platforms_checked": 37,
+    "found_profiles": [
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://reddit.com/user/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "telegram",
+        "url": "https://t.me/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://youtube.com/@ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://tiktok.com/@ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "snapchat",
+        "url": "https://snapchat.com/add/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "pinterest",
+        "url": "https://pinterest.com/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "medium",
+        "url": "https://medium.com/@ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "twitch",
+        "url": "https://twitch.tv/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "soundcloud",
+        "url": "https://soundcloud.com/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "behance",
+        "url": "https://behance.net/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "deviantart",
+        "url": "https://ashleycannon.deviantart.com",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "hackernews",
+        "url": "https://news.ycombinator.com/user?id=ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "scribd",
+        "url": "https://scribd.com/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "badoo",
+        "url": "https://badoo.com/profile/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "cash.app",
+        "url": "https://cash.app/$ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "venmo",
+        "url": "https://venmo.com/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "onlyfans",
+        "url": "https://onlyfans.com/ashleycannon",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "linktree",
+        "url": "https://linktr.ee/ashleycannon",
+        "status": "Profile exists"
+      }
+    ],
+    "not_found": [
+      "github",
+      "twitter",
+      "linkedin",
+      "discord: Discord usernames not publicly searchable",
+      "tumblr",
+      "spotify",
+      "vimeo",
+      "dribbble",
+      "flickr",
+      "goodreads",
+      "keybase",
+      "pastebin",
+      "about.me",
+      "gravatar",
+      "foursquare",
+      "slideshare",
+      "last.fm",
+      "patreon",
+      "clubhouse: Clubhouse usernames not publicly searchable",
+      "signal: Signal usernames not publicly searchable",
+      "whatsapp: WhatsApp usernames not publicly searchable"
+    ],
+    "errors": [],
+    "rate_limited": []
+  },
+  "pattern_analysis": {
+    "length": 12,
+    "has_numbers": false,
+    "has_special_chars": false,
+    "is_all_lowercase": true,
+    "is_all_uppercase": false,
+    "common_variations": [
+      "ASHLEYCANNON",
+      "ashleycannon_",
+      "ashleycannon1",
+      "ashleycannon123",
+      "_ashleycannon",
+      "ashleycannonofficial",
+      "ashleycannonreal",
+      "ashleycannon2024",
+      "Ashleycannon",
+      "ashleycannon"
+    ],
+    "security_assessment": {
+      "security_score": 10,
+      "issues": [],
+      "recommendation": "Username appears secure"
+    }
+  }
+}

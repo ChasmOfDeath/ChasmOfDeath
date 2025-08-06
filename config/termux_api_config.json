@@ -1,0 +1,18 @@
+{
+  "detected_at": "2025-08-05T19:31:09.450810",
+  "available_apis": {
+    "notification": "termux-notification",
+    "sms_list": "termux-sms-list",
+    "volume": "termux-volume",
+    "brightness": "termux-brightness"
+  },
+  "device_info": {
+    "timestamp": "2025-08-05T19:31:09.450904",
+    "available_apis": [
+      "notification",
+      "sms_list",
+      "volume",
+      "brightness"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+=== Phone Validator Results ===
+Target: +17314150198
+Timestamp: 2025-08-05 19:34:42.345681
+
+Messaging App OSINT Toolkit
+Educational and authorized use only!
+
+Do you have explicit permission to test this number? (yes/no): Enter phone number (with country code): 
+==================================================
+MESSAGING APP OSINT REPORT
+==================================================
+Target: +17314150198
+Timestamp: null
+==================================================
+[INFO] Checking WhatsApp Business status for +17314150198
+[INFO] This requires proper API access and authorization
+
+📱 PHONE VALIDATION:
+   Format Valid: True
+   Country Code: 1
+   Possible Countries: ['US', 'CA']
+
+💬 WHATSAPP BUSINESS:
+   Business Account: False
+   Method: public_directory_check
+
+Report saved to report_17314150198.json

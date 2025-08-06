@@ -1,0 +1,24 @@
+{
+  "target": "+1234567890",
+  "phone_validation": {
+    "original": "+1234567890",
+    "cleaned": "1234567890",
+    "valid_format": true,
+    "country_code": "1",
+    "possible_countries": [
+      "US",
+      "CA"
+    ]
+  },
+  "whatsapp_business": {
+    "has_whatsapp_business": false,
+    "business_info": null,
+    "method": "public_directory_check"
+  },
+  "telegram_check": null,
+  "recommendations": [
+    "Phone number format is valid",
+    "Always obtain proper authorization",
+    "Respect privacy laws and ToS"
+  ]
+}

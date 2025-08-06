@@ -1,0 +1,46 @@
+{
+  "target": "+17314150198",
+  "timestamp": "2025-08-05T19:27:47.651006",
+  "phone_analysis": {
+    "number": "+17314150198",
+    "is_valid": true,
+    "is_possible": true,
+    "country_code": 1,
+    "national_number": 7314150198,
+    "international_format": "+1 731-415-0198",
+    "national_format": "(731) 415-0198",
+    "e164_format": "+17314150198",
+    "location": "Tennessee",
+    "carrier": "",
+    "timezones": [
+      "America/Chicago"
+    ],
+    "number_type": "FIXED_LINE_OR_MOBILE",
+    "line_type": "UNKNOWN"
+  },
+  "spam_analysis": {
+    "spam_score": 0,
+    "reports": [],
+    "databases_checked": []
+  },
+  "social_footprint": {
+    "platforms_found": [],
+    "public_profiles": [],
+    "associated_usernames": [],
+    "whatsapp": {
+      "has_whatsapp": "Unknown - requires proper API access",
+      "last_seen": "Not available",
+      "profile_info": "Requires authorization"
+    },
+    "telegram": {
+      "has_telegram": "Unknown - phone privacy protected",
+      "username": "Not publicly available",
+      "method": "Respects privacy settings"
+    }
+  },
+  "risk_assessment": {
+    "risk_score": 0,
+    "risk_level": "LOW",
+    "risk_factors": []
+  }
+}

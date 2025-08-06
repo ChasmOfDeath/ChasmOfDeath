@@ -1,0 +1,15 @@
+=== IP Network OSINT Results ===
+Target: +17314150198
+Timestamp: 2025-08-05 19:35:42.037507
+
+IP Address & Network OSINT Tool
+Educational and authorized use only!
+
+Do you have permission to analyze this IP address? (yes/no): Enter IP address: 
+============================================================
+IP ADDRESS & NETWORK OSINT REPORT
+============================================================
+Target: +17314150198
+Generated: 2025-08-05 19:35:40
+============================================================
+❌ Invalid IP address: +17314150198

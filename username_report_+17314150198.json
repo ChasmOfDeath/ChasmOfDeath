@@ -1,0 +1,128 @@
+{
+  "target": "+17314150198",
+  "timestamp": "2025-08-05T19:35:34.093870",
+  "availability_check": {
+    "username": "+17314150198",
+    "timestamp": "2025-08-05T19:34:50.570526",
+    "platforms_checked": 37,
+    "found_profiles": [
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "reddit",
+        "url": "https://reddit.com/user/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "telegram",
+        "url": "https://t.me/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://tiktok.com/@+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "pinterest",
+        "url": "https://pinterest.com/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "medium",
+        "url": "https://medium.com/@+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "twitch",
+        "url": "https://twitch.tv/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "hackernews",
+        "url": "https://news.ycombinator.com/user?id=+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "gravatar",
+        "url": "https://gravatar.com/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "badoo",
+        "url": "https://badoo.com/profile/+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "onlyfans",
+        "url": "https://onlyfans.com/+17314150198",
+        "status": "Profile exists"
+      }
+    ],
+    "not_found": [
+      "github",
+      "twitter",
+      "youtube",
+      "linkedin",
+      "discord: Discord usernames not publicly searchable",
+      "snapchat",
+      "spotify",
+      "soundcloud",
+      "vimeo",
+      "behance",
+      "dribbble",
+      "flickr",
+      "goodreads",
+      "keybase",
+      "pastebin",
+      "about.me",
+      "foursquare",
+      "slideshare",
+      "scribd",
+      "last.fm",
+      "cash.app",
+      "venmo",
+      "patreon",
+      "linktree",
+      "clubhouse: Clubhouse usernames not publicly searchable",
+      "signal: Signal usernames not publicly searchable",
+      "whatsapp: WhatsApp usernames not publicly searchable"
+    ],
+    "errors": [
+      "tumblr",
+      "deviantart"
+    ],
+    "rate_limited": []
+  },
+  "pattern_analysis": {
+    "length": 12,
+    "has_numbers": true,
+    "has_special_chars": true,
+    "is_all_lowercase": false,
+    "is_all_uppercase": false,
+    "common_variations": [
+      "+17314150198123",
+      "+17314150198",
+      "real+17314150198",
+      "+173141501982024",
+      "+173141501981",
+      "_+17314150198",
+      "+17314150198official",
+      "+17314150198real",
+      "+17314150198_"
+    ],
+    "security_assessment": {
+      "security_score": 10,
+      "issues": [],
+      "recommendation": "Username appears secure"
+    }
+  }
+}

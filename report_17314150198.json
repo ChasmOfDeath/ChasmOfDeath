@@ -1,0 +1,24 @@
+{
+  "target": "+17314150198",
+  "phone_validation": {
+    "original": "+17314150198",
+    "cleaned": "17314150198",
+    "valid_format": true,
+    "country_code": "1",
+    "possible_countries": [
+      "US",
+      "CA"
+    ]
+  },
+  "whatsapp_business": {
+    "has_whatsapp_business": false,
+    "business_info": null,
+    "method": "public_directory_check"
+  },
+  "telegram_check": null,
+  "recommendations": [
+    "Phone number format is valid",
+    "Always obtain proper authorization",
+    "Respect privacy laws and ToS"
+  ]
+}

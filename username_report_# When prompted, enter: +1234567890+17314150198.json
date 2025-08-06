@@ -1,0 +1,181 @@
+{
+  "target": "# When prompted, enter: +1234567890\r+17314150198",
+  "timestamp": "2025-08-05T19:42:45.174880",
+  "availability_check": {
+    "username": "# When prompted, enter: +1234567890\r+17314150198",
+    "timestamp": "2025-08-05T19:42:00.493256",
+    "platforms_checked": 37,
+    "found_profiles": [
+      {
+        "platform": "github",
+        "url": "https://github.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "tiktok",
+        "url": "https://tiktok.com/@# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "snapchat",
+        "url": "https://snapchat.com/add/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "pinterest",
+        "url": "https://pinterest.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "twitch",
+        "url": "https://twitch.tv/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "soundcloud",
+        "url": "https://soundcloud.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "vimeo",
+        "url": "https://vimeo.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "behance",
+        "url": "https://behance.net/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "dribbble",
+        "url": "https://dribbble.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "flickr",
+        "url": "https://flickr.com/people/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "goodreads",
+        "url": "https://goodreads.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "keybase",
+        "url": "https://keybase.io/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "hackernews",
+        "url": "https://news.ycombinator.com/user?id=# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "about.me",
+        "url": "https://about.me/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "gravatar",
+        "url": "https://gravatar.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "foursquare",
+        "url": "https://foursquare.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "slideshare",
+        "url": "https://slideshare.net/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "scribd",
+        "url": "https://scribd.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "badoo",
+        "url": "https://badoo.com/profile/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "venmo",
+        "url": "https://venmo.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "patreon",
+        "url": "https://patreon.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "onlyfans",
+        "url": "https://onlyfans.com/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      },
+      {
+        "platform": "linktree",
+        "url": "https://linktr.ee/# When prompted, enter: +1234567890\r+17314150198",
+        "status": "Profile exists"
+      }
+    ],
+    "not_found": [
+      "twitter",
+      "reddit",
+      "telegram",
+      "youtube",
+      "linkedin",
+      "discord: Discord usernames not publicly searchable",
+      "medium",
+      "spotify",
+      "pastebin",
+      "last.fm",
+      "cash.app",
+      "clubhouse: Clubhouse usernames not publicly searchable",
+      "signal: Signal usernames not publicly searchable",
+      "whatsapp: WhatsApp usernames not publicly searchable"
+    ],
+    "errors": [
+      "tumblr",
+      "deviantart"
+    ],
+    "rate_limited": []
+  },
+  "pattern_analysis": {
+    "length": 48,
+    "has_numbers": true,
+    "has_special_chars": true,
+    "is_all_lowercase": false,
+    "is_all_uppercase": false,
+    "common_variations": [
+      "# When prompted, enter: +1234567890\r+17314150198",
+      "# When prompted, enter: +1234567890\r+17314150198real",
+      "# when prompted, enter: +1234567890\r+17314150198",
+      "# WHEN PROMPTED, ENTER: +1234567890\r+17314150198",
+      "# When prompted, enter: +1234567890\r+173141501982024",
+      "_# When prompted, enter: +1234567890\r+17314150198",
+      "# When prompted, enter: +1234567890\r+17314150198_",
+      "# When prompted, enter: +1234567890\r+173141501981",
+      "# When prompted, enter: +1234567890\r+17314150198official",
+      "real# When prompted, enter: +1234567890\r+17314150198"
+    ],
+    "security_assessment": {
+      "security_score": 10,
+      "issues": [],
+      "recommendation": "Username appears secure"
+    }
+  }
+}

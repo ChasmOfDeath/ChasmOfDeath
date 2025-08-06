@@ -1,0 +1,55 @@
+=== Username OSINT Results ===
+Target: +17314150198
+Timestamp: 2025-08-05 19:35:37.490403
+
+Username OSINT Tool
+Educational and authorized use only!
+
+Do you have permission to search for this username? (yes/no): Enter username to search: 
+============================================================
+USERNAME OSINT REPORT
+============================================================
+Target: +17314150198
+Generated: 2025-08-05 19:34:50
+============================================================
+
+🔍 Checking username '+17314150198' across platforms...
+Note: This checks public availability only
+   ✓ instagram: https://instagram.com/+17314150198
+   ✓ reddit: https://reddit.com/user/+17314150198
+   ✓ telegram: https://t.me/+17314150198
+   ✓ tiktok: https://tiktok.com/@+17314150198
+   ✓ facebook: https://facebook.com/+17314150198
+   ✓ pinterest: https://pinterest.com/+17314150198
+   ✓ medium: https://medium.com/@+17314150198
+   ✓ twitch: https://twitch.tv/+17314150198
+   ✓ hackernews: https://news.ycombinator.com/user?id=+17314150198
+   ✓ gravatar: https://gravatar.com/+17314150198
+   ✓ badoo: https://badoo.com/profile/+17314150198
+   ✓ onlyfans: https://onlyfans.com/+17314150198
+
+📊 AVAILABILITY SUMMARY:
+   Platforms Checked: 37
+   Profiles Found: 12
+   Not Found: 27
+   Errors: 2
+
+✅ FOUND PROFILES:
+   • instagram: https://instagram.com/+17314150198
+   • reddit: https://reddit.com/user/+17314150198
+   • telegram: https://t.me/+17314150198
+   • tiktok: https://tiktok.com/@+17314150198
+   • facebook: https://facebook.com/+17314150198
+   • pinterest: https://pinterest.com/+17314150198
+   • medium: https://medium.com/@+17314150198
+   • twitch: https://twitch.tv/+17314150198
+   • hackernews: https://news.ycombinator.com/user?id=+17314150198
+   • gravatar: https://gravatar.com/+17314150198
+
+🔍 PATTERN ANALYSIS:
+   Length: 12 characters
+   Has Numbers: True
+   Has Special Chars: True
+   Security Score: 10/10
+
+Report saved to username_report_+17314150198.json

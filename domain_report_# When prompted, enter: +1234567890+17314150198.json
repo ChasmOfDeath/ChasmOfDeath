@@ -1,0 +1,23 @@
+{
+  "domain": "# When prompted, enter: +1234567890\r+17314150198",
+  "whois_info": {
+    "registrar": null,
+    "creation_date": null,
+    "expiration_date": null,
+    "name_servers": [],
+    "country": null,
+    "organization": null
+  },
+  "dns_records": {
+    "A": [],
+    "AAAA": [],
+    "CNAME": [],
+    "TXT": [],
+    "NS": []
+  },
+  "mx_records": [],
+  "subdomains": [],
+  "security_headers": {
+    "error": "Could not check security headers"
+  }
+}
