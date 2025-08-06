@@ -1,30 +1,32 @@
-# Messaging App OSINT Toolkit
+# 🔍 Messaging OSINT Toolkit
 
-## ⚠️ LEGAL DISCLAIMER
-This toolkit is for educational and authorized security research only.
-- Only use on numbers you own or have explicit permission to test
-- Comply with local privacy laws and regulations
-- Respect platform Terms of Service
-- Do not use for harassment, stalking, or unauthorized surveillance
+Complete OSINT (Open Source Intelligence) toolkit optimized for Termux with Android integration.
 
-## Supported Platforms
-- WhatsApp Business API (limited public info)
-- Telegram (username/channel lookup)
-- Signal (limited detection)
-- General phone number validation
+## 🚀 Features
+- 9 specialized OSINT tools
+- Full Termux API integration (13/14 permissions)
+- Android notifications and device context
+- Ethical guidelines and consent checks
+- Mobile-optimized security research
 
-## Ethical Guidelines
-1. Obtain proper authorization before testing
-2. Respect privacy and data protection laws
-3. Use for legitimate security research only
-4. Document and report responsibly
-```
+## ⚠️ Legal Notice
+**FOR AUTHORIZED USE ONLY**
+This toolkit is for educational purposes and authorized security research only.
+
+## 🛠️ Installation
 ```bash
-python tools/[tool_name].py
-```
+git clone https://github.com/DeathSec333/messaging_osint.git
+cd messaging_osint
+./setup.sh
 
-## Ethical Usage
-- Document authorization and purpose
-- Use for legitimate security research only
-- Respect privacy laws and platform ToS
-- Always obtain proper authorization
+📱 Usage
+
+python osint_master.py
+Insert at cursor
+
+
+📧 Contact
+
+GitHub: [@DeathSec333](https://github.com/DeathSec333)
+
+Email: deathsec333@proton.me
