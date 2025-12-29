@@ -1,32 +1,45 @@
-# 🔍 Messaging OSINT Toolkit
+# ChasmOfDeath - OSINT Toolkit
 
-Complete OSINT (Open Source Intelligence) toolkit optimized for Termux with Android integration.
+Comprehensive Open Source Intelligence (OSINT) toolkit for educational and authorized use only.
 
-## 🚀 Features
-- 9 specialized OSINT tools
-- Full Termux API integration (13/14 permissions)
-- Android notifications and device context
-- Ethical guidelines and consent checks
-- Mobile-optimized security research
+## ⚠️ Legal Disclaimer
 
-## ⚠️ Legal Notice
-**FOR AUTHORIZED USE ONLY**
-This toolkit is for educational purposes and authorized security research only.
+This toolkit is for **educational purposes and authorized security research only**. Users must:
+- Obtain proper authorization before conducting any investigation
+- Comply with all applicable laws and regulations
+- Respect privacy and data protection laws (GDPR, CCPA, etc.)
 
-## 🛠️ Installation
+## Features
+
+- 📱 Phone Number Analysis
+- 📧 Email & Domain Investigation
+- 👤 Username Search Across Platforms
+- 🌐 IP Address & Network Analysis
+- 📱 Social Media Lookup
+- 📊 Combined Reporting
+
+## Installation
+
 ```bash
-git clone https://github.com/DeathSec333/messaging_osint.git
-cd messaging_osint
-./setup.sh
+# Clone repository
+git clone https://github.com/YOUR_USERNAME/ChasmOfDeath.git
+cd ChasmOfDeath
 
-📱 Usage
+# Install dependencies
+pip install -r requirements.txt
+
+Usage
+
 
 python osint_master.py
 Insert at cursor
 
+Requirements
 
-📧 Contact
 
-GitHub: [@DeathSec333](https://github.com/DeathSec333)
+Python 3.8+
+See requirements.txt for dependencies
 
-Email: deathsec333@proton.me
+License
+
+Educational use only. Use responsibly and ethically.
